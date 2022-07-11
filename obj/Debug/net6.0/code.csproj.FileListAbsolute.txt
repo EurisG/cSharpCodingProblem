@@ -1,0 +1,15 @@
+/Users/eudotis/Desktop/code/bin/Debug/net6.0/code
+/Users/eudotis/Desktop/code/bin/Debug/net6.0/code.deps.json
+/Users/eudotis/Desktop/code/bin/Debug/net6.0/code.runtimeconfig.json
+/Users/eudotis/Desktop/code/bin/Debug/net6.0/code.dll
+/Users/eudotis/Desktop/code/bin/Debug/net6.0/code.pdb
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/code.csproj.AssemblyReference.cache
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/code.AssemblyInfoInputs.cache
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/code.AssemblyInfo.cs
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/code.csproj.CoreCompileInputs.cache
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/code.dll
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/refint/code.dll
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/code.pdb
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/code.genruntimeconfig.cache
+/Users/eudotis/Desktop/code/obj/Debug/net6.0/ref/code.dll
