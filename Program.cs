@@ -66,6 +66,8 @@ namespace MyProgram
 
 
             List<Row> reversedRow = row;
+            
+            reversedRow.Reverse();
 
             try
             {
